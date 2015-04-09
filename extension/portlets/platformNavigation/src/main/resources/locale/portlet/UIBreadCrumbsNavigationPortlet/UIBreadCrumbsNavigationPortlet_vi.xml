@@ -2,13 +2,13 @@
 <bundle>
 <UIBreadCrumbsNavigationPortlet>
     <label>
-        <ChangePicture>Thay đổi Ảnh Đại diện</ChangePicture>
+      <EditProfile>Edit my Profile</EditProfile>
     </label>
-</UIBreadCrumbsNavigationPortlet>
- <UIBreadCrumbPopupAvatarUploader>
       <title>
-         <UIAvatarUploader>Tải Ảnh Đại diện lên</UIAvatarUploader>
-         <UIAvatarUploadContent>Duyệt Ảnh Đại diện</UIAvatarUploadContent>
+      <EditProfile>Edit Profile</EditProfile>
+    </title>
+    <title>
+      <MyProfile>My Profile</MyProfile>
       </title>
- </UIBreadCrumbPopupAvatarUploader>
+</UIBreadCrumbsNavigationPortlet>
 </bundle>

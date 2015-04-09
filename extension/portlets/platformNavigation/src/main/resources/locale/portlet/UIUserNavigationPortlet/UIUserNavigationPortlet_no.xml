@@ -12,6 +12,7 @@
          <Mywiki>Min Wiki</Mywiki>
          <Mydashboard>Mitt dashboard</Mydashboard>
          <NotificationSettingsPortlet>My Notifications</NotificationSettingsPortlet>
+         <More>More</More>
       </label>
    </UIUserNavigationPortlet>
 </bundle>

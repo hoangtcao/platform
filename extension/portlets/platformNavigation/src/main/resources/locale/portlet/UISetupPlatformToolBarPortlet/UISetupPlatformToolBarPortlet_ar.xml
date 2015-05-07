@@ -8,7 +8,7 @@
 <wcmAdmin>إدارة المحتوى</wcmAdmin>
 <users>المستخدمين</users>
 <newStaff>إضافة مستخدمين</newStaff>
-<org-management>المجموعات و الأدوار</org-management>
+<org-management>Community</org-management>
 <portal>بوّابة</portal>
 <administration>ادارة</administration>
 <groupnavigation>مواقع المجموعات</groupnavigation>
@@ -18,7 +18,7 @@
 <monitoring>المراقبة</monitoring>
 <spaces>فضاءات</spaces>
 <Branding>الشّكل</Branding>
-      <Notification>Email Notifications</Notification>
+      <Notification>Activity Notifications</Notification>
 <ide>IDE</ide>
 <search>البحث</search>
 </label>

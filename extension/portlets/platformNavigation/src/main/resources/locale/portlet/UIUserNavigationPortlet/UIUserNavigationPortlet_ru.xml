@@ -12,7 +12,7 @@
          <Mywiki>Моя Вики-страница</Mywiki>
          <Mydashboard>Моя панель мониторинга</Mydashboard>
          <NotificationSettingsPortlet>Мои уведомления</NotificationSettingsPortlet>
-         <More>More</More>
+         <More>Еще</More>
       </label>
    </UIUserNavigationPortlet>
 </bundle>

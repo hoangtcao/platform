@@ -8,7 +8,7 @@
 <wcmAdmin>Gestió de continguts</wcmAdmin>
 <users>Usuaris</users>
 <newStaff>Afegeix Usuaris/es</newStaff>
-<org-management>Rols i Grups</org-management>
+<org-management>Community</org-management>
 <portal>Portal</portal>
 <administration>Adminstració</administration>
 <groupnavigation>Llocs dels Grups</groupnavigation>
@@ -18,7 +18,7 @@
 <monitoring>Monitorització</monitoring>
 <spaces>Espais</spaces>
 <Branding>Logotips</Branding>
-      <Notification>Notificacions per correu</Notification>
+      <Notification>Activity Notifications</Notification>
 <ide>IDE</ide>
 <search>Cerca</search>
 </label>

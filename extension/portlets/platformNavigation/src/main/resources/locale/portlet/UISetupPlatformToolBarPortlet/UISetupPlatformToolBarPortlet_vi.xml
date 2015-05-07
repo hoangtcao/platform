@@ -8,7 +8,7 @@
 <wcmAdmin>Quản trị Nội dung</wcmAdmin>
 <users>Người dùng</users>
 <newStaff>Thêm Người dùng</newStaff>
-<org-management>Nhóm và Vai trò</org-management>
+<org-management>Community</org-management>
 <portal>Cổng thông tin</portal>
 <administration>Quản trị</administration>
 <groupnavigation>Site của Nhóm</groupnavigation>
@@ -18,7 +18,7 @@
 <monitoring>Giám sát</monitoring>
 <spaces>Nhóm</spaces>
 <Branding>Thương hiệu</Branding>
-      <Notification>Thông báo hoạt động</Notification>
+      <Notification>Activity Notifications</Notification>
 <ide>IDE</ide>
 <search>Tìm kiếm</search>
 </label>

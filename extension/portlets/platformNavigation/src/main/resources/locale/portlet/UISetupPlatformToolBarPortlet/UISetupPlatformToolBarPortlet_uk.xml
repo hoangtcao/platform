@@ -8,7 +8,7 @@
 <wcmAdmin>Управління контентом</wcmAdmin>
 <users>Користувачі</users>
 <newStaff>Додати користувачів</newStaff>
-<org-management>Групи та ролі</org-management>
+<org-management>Community</org-management>
 <portal>Портал</portal>
 <administration>Адміністрування</administration>
 <groupnavigation>Сайти групи</groupnavigation>
@@ -18,7 +18,7 @@
 <monitoring>Моніторинг</monitoring>
 <spaces>Області</spaces>
 <Branding>Фірмова символіка</Branding>
-      <Notification>Email Notifications</Notification>
+      <Notification>Activity Notifications</Notification>
 <ide>IDE</ide>
 <search>Пошук</search>
 </label>

@@ -5,10 +5,10 @@
       <EditProfile>Edit my Profile</EditProfile>
     </label>
       <title>
-      <EditProfile>Edit Profile</EditProfile>
+      <EditProfile>Editează profilul</EditProfile>
     </title>
     <title>
-      <MyProfile>My Profile</MyProfile>
+      <MyProfile>Profilul meu</MyProfile>
       </title>
 </UIBreadCrumbsNavigationPortlet>
 </bundle>

@@ -8,7 +8,7 @@
 <wcmAdmin>İçerik Yönetimi</wcmAdmin>
 <users>Kullanıcılar</users>
 <newStaff>Kullanıcılar Ekle</newStaff>
-<org-management>Gruplar ve Roller</org-management>
+<org-management>Community</org-management>
 <portal>Portal</portal>
 <administration>Yönetim</administration>
 <groupnavigation>Grup Siteleri</groupnavigation>
@@ -18,7 +18,7 @@
 <monitoring>İzleme</monitoring>
 <spaces>Alanlar</spaces>
 <Branding>Marka</Branding>
-      <Notification>Email Notifications</Notification>
+      <Notification>Activity Notifications</Notification>
 <ide>IDE</ide>
 <search>Arama</search>
 </label>

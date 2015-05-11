@@ -8,7 +8,7 @@
 <wcmAdmin>Administrare conţinut</wcmAdmin>
 <users>Utilizatori</users>
 <newStaff>Adaugă utilizatori</newStaff>
-<org-management>Grupuri si roluri</org-management>
+<org-management>Community</org-management>
 <portal>Portal</portal>
 <administration>Administrare</administration>
 <groupnavigation>Site-uri de grup</groupnavigation>
@@ -18,7 +18,7 @@
 <monitoring>Monitorizare</monitoring>
 <spaces>Spații</spaces>
 <Branding>Personalizare</Branding>
-      <Notification>Notificări prin e-mail</Notification>
+      <Notification>Activity Notifications</Notification>
 <ide>IDE</ide>
 <search>Căutare</search>
 </label>

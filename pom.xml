@@ -579,6 +579,11 @@
         <artifactId>exo.portal.component.web.oauth-web</artifactId>
         <version>${org.gatein.portal.version}</version>
       </dependency>
+      <dependency>
+        <groupId>org.gatein.portal</groupId>
+        <artifactId>exo.portal.component.web.oauth-plf</artifactId>
+        <version>${org.gatein.portal.version}</version>
+      </dependency>
       <!-- DON'T REMOVE : needed for product packaging -->
       <dependency>
         <groupId>org.gatein.portal</groupId>

@@ -184,12 +184,12 @@
             </script>
             <div id="social-pane">
                 <div class="SignInDelimiter">
-                    <span><%=res.getString("UILoginForm.label.mobile.login.oauth.Delimiter")%></span>
+                    <%=res.getString("UILoginForm.label.mobile.login.oauth.Delimiter")%>
                 </div>
                 <div id="social-login">
                     <% for (OAuthProviderType oauthProvType : registry.getEnabledOAuthProviders()) { %>
-                    <a href="javascript:void(0)" onclick="goSocialLoginUrl('<%= oauthProvType.getInitOAuthURL(contextPath, uri) %>')" id="login-<%= oauthProvType.getKey() %>" class="btn login-button btn-login-<%= oauthProvType.getKey().toLowerCase() %>">
-                        <%= oauthProvType.getFriendlyName() %>
+                    <a href="javascript:void(0)" onclick="goSocialLoginUrl('<%= oauthProvType.getInitOAuthURL(contextPath, uri) %>')" id="login-<%= oauthProvType.getKey() %>">
+                        <i class="uiIconOauth <%= oauthProvType.getFriendlyName() %>"></i>
                     </a>
                     <% } %>
                 </div>

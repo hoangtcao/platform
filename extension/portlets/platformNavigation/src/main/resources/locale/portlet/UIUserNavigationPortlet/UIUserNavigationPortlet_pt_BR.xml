@@ -2,11 +2,11 @@
 <bundle>
    <UIUserNavigationPortlet>
       <label>
-         <activities>Atividades</activities>
+         <activities>Activities</activities>
          <profile>Perfil</profile>
          <connections>Conexões</connections>
          <wiki>Wiki</wiki>
-         <Myactivities>Minhas Atividades</Myactivities>
+         <Myactivities>My Activities</Myactivities>
          <Myprofile>Meu perfil</Myprofile>
          <Myconnections>Minhas conexões</Myconnections>
          <Mywiki>Meu Wiki</Mywiki>
